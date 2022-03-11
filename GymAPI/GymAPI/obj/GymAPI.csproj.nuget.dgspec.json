@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dime\\Desktop\\GYMAPI\\GymAPI\\GymAPI\\GymAPI.csproj": {}
+    "G:\\Users\\dime\\Documents\\Angular-form-GYM-equipment\\GymAPI\\GymAPI\\GymAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dime\\Desktop\\GYMAPI\\GymAPI\\GymAPI\\GymAPI.csproj": {
+    "G:\\Users\\dime\\Documents\\Angular-form-GYM-equipment\\GymAPI\\GymAPI\\GymAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dime\\Desktop\\GYMAPI\\GymAPI\\GymAPI\\GymAPI.csproj",
+        "projectUniqueName": "G:\\Users\\dime\\Documents\\Angular-form-GYM-equipment\\GymAPI\\GymAPI\\GymAPI.csproj",
         "projectName": "GymAPI",
-        "projectPath": "C:\\Users\\dime\\Desktop\\GYMAPI\\GymAPI\\GymAPI\\GymAPI.csproj",
+        "projectPath": "G:\\Users\\dime\\Documents\\Angular-form-GYM-equipment\\GymAPI\\GymAPI\\GymAPI.csproj",
         "packagesPath": "C:\\Users\\dime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dime\\Desktop\\GYMAPI\\GymAPI\\GymAPI\\obj\\",
+        "outputPath": "G:\\Users\\dime\\Documents\\Angular-form-GYM-equipment\\GymAPI\\GymAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dime\\AppData\\Roaming\\NuGet\\NuGet.Config",

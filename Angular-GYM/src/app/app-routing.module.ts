@@ -14,7 +14,7 @@ const routes: Routes = [
   {path: 'equipment/edit/:id', component: EquipmentEditComponent},
  
 
-  {path: '**', redirectTo: ''}
+  {path: '**', component: EquipmentIndexComponent}
 
 ];
 

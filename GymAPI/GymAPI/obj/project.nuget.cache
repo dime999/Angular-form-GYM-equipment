@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2iN5GS1ChwjDXsXbwZhcqgcS7e30kEzn1VAq3RHgdifd6C611I482dP7WGWa5+hHRqSDbDuUaJac+fuwLvGQew==",
+  "dgSpecHash": "nN3EvS9VeR3SQ9ouh8hHx8RfSmcx7OLeuKFkMDQav9H76R2KwiqArh245mx4sWfBiHa+WTxRJq1mLEHC2MM8QA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dime\\Desktop\\GYMAPI\\GymAPI\\GymAPI\\GymAPI.csproj",
+  "projectFilePath": "G:\\Users\\dime\\Documents\\Angular-form-GYM-equipment\\GymAPI\\GymAPI\\GymAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dime\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\dime\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
