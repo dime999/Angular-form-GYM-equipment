@@ -1,0 +1,29 @@
+<form (submit)="saveChanges()" [formGroup]="form">
+    <mat-form-field appearance="outline">
+        <mat-label>Name*</mat-label>
+        <input formControlName="name" matInput />
+        <mat-error>The name field is required</mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+        <mat-label>Description*</mat-label>
+        <input formControlName="description" matInput />
+        <mat-error>The name field is required</mat-error>
+    </mat-form-field>
+   
+
+    <h4>Select Picture</h4>
+
+    <app-input-img
+    [urlCurrentImage]="model?.picture"
+    (onImageSelected)="onImageSelected($event)"></app-input-img>
+
+
+
+   
+
+    <div>
+        <button mat-flat-button color="primary" [disabled]="form.invalid">Save Changes</button>
+        <a mat-stroked-button routerLink="/equipment">Cancel</a>
+    </div>
+</form>

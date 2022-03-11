@@ -1,0 +1,6 @@
+<h2 >Edit Equipment</h2>
+
+<app-equipment-form *ngIf="model" [model]="model" 
+(onSaveChanges)="saveChanges($event)"></app-equipment-form >
+
+<mat-spinner *ngIf="!model"></mat-spinner>
